@@ -1,0 +1,14 @@
+asyncio==3.4.3
+qrcode==7.4.2
+PySocks==1.7.1
+pdfkit==1.0.0
+imgkit==1.2.3
+icalendar==5.0.7
+Faker==18.11.2
+dkimpy==1.1.4
+Pillow==9.5.0
+colorama==0.4.6
+requests==2.31.0
+cryptography==42.0.5
+PyPDF2[crypto]
+azure-communication-email

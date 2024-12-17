@@ -1,0 +1,14 @@
+socks5://localhost:10808@user:pass
+eu.lumiproxy.com:5888:lumi-jamesbond_area-US_state-Texas_life-120_session-Lk8OkMiD2p:Formomsi123
+eu.lumiproxy.com:5888:lumi-jamesbond_area-US_state-Texas_life-120_session-ByPFhQOk9J:Formomsi123
+eu.lumiproxy.com:5888:lumi-jamesbond_area-US_state-Texas_life-120_session-7QxLhliPEJ:Formomsi123
+eu.lumiproxy.com:5888:lumi-jamesbond_area-US_state-Texas_life-120_session-gpfMxHbYJF:Formomsi123
+eu.lumiproxy.com:5888:lumi-jamesbond_area-US_state-Texas_life-120_session-7DGcjm7iV5:Formomsi123
+eu.lumiproxy.com:5888:lumi-jamesbond_area-US_state-Texas_life-120_session-aSjnHSr2tt:Formomsi123
+eu.lumiproxy.com:5888:lumi-jamesbond_area-US_state-Texas_life-120_session-ApNuu5b0sf:Formomsi123
+eu.lumiproxy.com:5888:lumi-jamesbond_area-US_state-Texas_life-120_session-g72tpmOxYT:Formomsi123
+eu.lumiproxy.com:5888:lumi-jamesbond_area-US_state-Texas_life-120_session-YHwHe1I5AG:Formomsi123
+eu.lumiproxy.com:5888:lumi-jamesbond_area-US_state-Texas_life-120_session-oL9PmWmm0z:Formomsi123
+eu.lumiproxy.com:5888:lumi-jamesbond_area-US_state-Texas_life-120_session-14kVEbObzj:Formomsi123
+eu.lumiproxy.com:5888:lumi-jamesbond_area-US_state-Texas_life-120_session-ru679AbBa5:Formomsi123
+eu.lumiproxy.com:5888:lumi-jamesbond_area-US_state-Texas_life-120_session-WkSxuyiO2d:Formomsi123
